@@ -45,7 +45,6 @@ export const BackIcon = styled(MdArrowBack)`
 export const Footer = styled.footer`
   display: flex;
   justify-content: space-between;
-  /* width: 100%; */
   margin-bottom: 10px;
 `;
 
@@ -53,5 +52,4 @@ export const Hr = styled.hr`
   border: none;
   border-top: 1px solid #3a3b3c;
   margin: 0.5em 0;
-  /* width: 100%; */
 `;

@@ -1,3 +1,5 @@
+import React from 'react';
+
 export interface Errors {
   year?: string;
   date?: string;

@@ -31,7 +31,6 @@ const carAdReducer = (state: ICarAdCreation, action: ACTION_TYPE) => {
     default:
       return state;
   }
-  return state;
 };
 
 export default carAdReducer;
